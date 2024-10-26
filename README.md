@@ -1,4 +1,4 @@
-- Hello, I'm PremiumName. I'm learning Python and Lua.
+- Hello, I'm PremiumName. I'm learning Python and С++.
 
 <!---
 PremiumName/PremiumName is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
